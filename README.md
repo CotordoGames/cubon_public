@@ -15,5 +15,5 @@ have fun! this is a simple project, so it should be very easy to modify
 ## Why this exists
 in the case that cubon gets canceled, I want fans to be able to use the base platformer engine to make their own cubon, how they see it.
 
-##Share your shit with me!!!
+## Share your shit with me!!!
 send me a link to your shit at djalroid0710@gmail.com !
